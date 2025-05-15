@@ -18,7 +18,7 @@ Flutter app using [Clean Architecture x Provider]
 ## 🛠️ Setting
 
 ```bash
-git clone https://github.com/Dev-NamNguyen/Demo-Mobilio.git
+git clone https://github.com/NNTH-Dev/flutter_clean_architecture.git
 cd ./Demo-Mobilio
 flutter pub get
 ```
