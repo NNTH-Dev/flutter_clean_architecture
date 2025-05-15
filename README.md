@@ -25,11 +25,15 @@ flutter pub get
 
 # Run with default equipment
 
+```bash
 flutter run
+```
 
 # Run with specific equipment
 
+```bash
 flutter run -d [device_id]
+```
 
 ## 🛠️ Structure
 
