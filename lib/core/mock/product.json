@@ -1,0 +1,34 @@
+{
+    "data" :[
+        {
+            "id": 1,
+            "name": "Iphone 15 Plus",
+            "price": 100,
+            "imageUrl": "https://www.imagineonline.store/cdn/shop/files/iPhone_15_Plus_Green_PDP_Image_Position-1__en-IN.jpg?v=1694606862&width=823"
+        },
+        {
+            "id": 2,
+            "name": "Iphone 16e",
+            "price": 200,
+            "imageUrl": "https://www.imagineonline.store/cdn/shop/files/373cc234-116d-59b6-b9a8-ae2f92c35338_m_jpg_1_a7e15ef1-df17-4c5c-9933-aaec3a11d09c.jpg?v=1739994171&width=823"
+        },
+        {
+            "id": 3,
+            "name": "Iphone 12 Yellow",
+            "price": 300,
+            "imageUrl": "http://imagineonline.store/cdn/shop/files/r1595_Yellow_PDP_Image_Position-1A__en-IN_3b89cb18-d778-42d6-b944-6fbb4c3fb47f.jpg?v=1692352177&width=823"
+        },
+        {
+            "id": 4,
+            "name": "Iphone 15 Pink",
+            "price": 400,
+            "imageUrl": "https://www.imagineonline.store/cdn/shop/files/iPhone_15_Pink_PDP_Image_Position-1__en-IN.jpg?v=1694605258&width=823"
+        },
+        {
+            "id": 5,
+            "name": "Iphone 14 Pro",
+            "price": 500,
+            "imageUrl": "https://www.imagineonline.store/cdn/shop/files/iPhone_14_Pro_Deep_Purple_PDP_Image_Position-1a__WWEN.jpg?v=1692348972&width=823"
+        }
+    ]
+}
