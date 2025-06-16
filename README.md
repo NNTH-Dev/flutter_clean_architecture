@@ -47,7 +47,7 @@ lib/
 │ ├── network/
 │ └── utils/
 │ └── routes/
-└── feture/name-feature/
+└── feature/name-feature/
 │ ├── data/
 │ │ ├── services/
 │ │ ├── models/
