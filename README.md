@@ -57,9 +57,9 @@ lib/
 │ │ └── repositories/
 │ │ └── usecases/
 │ └── presentation/
-│ ├── view_model/
-│ ├── screens/
-│ └── widgets/
+│   ├── view_model/
+│   ├── screens/
+│   └── widgets/
 └──
 
 ```
